@@ -1,3 +1,4 @@
+npx cross-env BABEL_SHOW_CONFIG_FOR=./node_modules/expo-router/build/static/renderStaticContent.js npx expo start --web
 {
   "devDependencies": {
     "@babel/preset-react": "^7.26.3"
